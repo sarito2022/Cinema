@@ -3,4 +3,4 @@ When a specific cinema is selected- all the films available in this cinema are d
 
 In addition, there is a form for adding a new movie, the selection of the cinemaID in it is from a select box.
 
-The project was written: React, Nodets, MySQL.
+The project was written: React, NodeTs, MySQL.
